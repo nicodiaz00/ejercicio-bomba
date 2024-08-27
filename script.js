@@ -3,9 +3,9 @@
 const imagenBomba = document.getElementById('imgBomba');
 
 
-let tamañoBomba= imagenBomba.style.width;
+
 let aumenta = 50;
-let decrece =20;
+
 let tamañoMinimo=100;
 let explotar=false;
 
